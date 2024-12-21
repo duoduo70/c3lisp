@@ -1,0 +1,48 @@
+Date : 2024-08-26 17:06:16
+Directory : /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc
+Total : 19 files,  1550 codes, 97 comments, 235 blanks, all 1882 lines
+
+Languages
++---------------+------------+------------+------------+------------+------------+
+| language      | files      | code       | comment    | blank      | total      |
++---------------+------------+------------+------------+------------+------------+
+| C             |          7 |      1,047 |         28 |        163 |      1,238 |
+| C++           |          8 |        301 |         69 |         68 |        438 |
+| TXT           |          1 |        170 |          0 |          1 |        171 |
+| NASM Assembly |          1 |         17 |          0 |          2 |         19 |
+| Ghost Lisp    |          1 |         13 |          0 |          1 |         14 |
+| Shell Script  |          1 |          2 |          0 |          0 |          2 |
++---------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         19 |      1,550 |         97 |        235 |      1,882 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+---------------+------------+------------+------------+------------+
+| filename                                                              | language      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+---------------+------------+------------+------------+------------+
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/alloc.c        | C             |         58 |          8 |         18 |         84 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/alloc.h        | C++           |         14 |          0 |          5 |         19 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/builtin-func.c | C             |        274 |          4 |         43 |        321 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/builtin-func.h | C++           |          6 |          0 |          1 |          7 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/expander.c     | C             |        275 |          4 |         35 |        314 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/expander.h     | C++           |         18 |          0 |          9 |         27 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/fstr.c         | C             |        134 |          0 |         21 |        155 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/fstr.h         | C++           |         22 |          7 |          8 |         37 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/leakcheck.h    | C++           |        125 |         51 |         18 |        194 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/linklist.h     | C++           |         72 |          0 |          5 |         77 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/log.txt        | TXT           |        170 |          0 |          1 |        171 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/main.c         | C             |         47 |         11 |         14 |         72 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/parser.c       | C             |        112 |          0 |         11 |        123 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/parser.h       | C++           |         13 |          3 |          4 |         20 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/run.sh         | Shell Script  |          2 |          0 |          0 |          2 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/test.asm       | NASM Assembly |         17 |          0 |          2 |         19 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/test.c3        | Ghost Lisp    |         13 |          0 |          1 |         14 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/token.c        | C             |        147 |          1 |         21 |        169 |
+| /home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/token.h        | C++           |         31 |          8 |         18 |         57 |
+| Total                                                                 |               |      1,550 |         97 |        235 |      1,882 |
++-----------------------------------------------------------------------+---------------+------------+------------+------------+------------+

@@ -1,0 +1,12 @@
+"filename", "language", "C++", "Ghost Lisp", "C", "comment", "blank", "total"
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/alloc.c", "C", 0, 0, 4, 8, -2, 10
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/fstr.c", "C", 0, 0, 22, 0, 3, 25
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/fstr.h", "C++", 5, 0, 0, 5, 3, 13
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/linklist.h", "C++", 3, 0, 0, 0, 0, 3
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/main.c", "C", 0, 0, 7, 3, 3, 13
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/parser.c", "C", 0, 0, 112, 0, 10, 122
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/parser.h", "C++", 13, 0, 0, 3, 4, 20
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/test.c3", "Ghost Lisp", 0, 1, 0, 0, 0, 1
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/token.c", "C", 0, 0, 18, 0, 4, 22
+"/home/zhangjunduo/Projects/complex-low-level-lisp/c3gc/token.h", "C++", 8, 0, 0, 5, 4, 17
+"Total", "-", 29, 1, 163, 24, 29, 246
